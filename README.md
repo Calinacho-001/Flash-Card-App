@@ -12,7 +12,10 @@ This is a Flash Card App built with Python and Tkinter, designed to help users l
 - **Interactive Buttons**: Users can mark words as "known" or skip them for further review.
 - **Data Persistence**: Stores progress in a CSV file (`words_to_learn.csv`), which is loaded automatically on the next session.
 
-![Flash Card App](images/sample_flash_card_app.png) ![Flash Card App](images/sample_flash_card_app_translated.png)
+<p align="center">
+  <img src="sample_flash_card_app.PNG" alt="Flash Card App" width="400">
+  <img src="sample_flash_card_app_translated.PNG" alt="Flash Card App Translated" width="400">
+</p>
 
 ## Requirements
 
